@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ross Kaplan-Winn]]></title>
+        <description><![CDATA[Ross Kaplan-Winn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 19:35:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Ross]]></title>
+            <description><![CDATA[<article><h1>About Ross</h1><p>About Me</p></article>]]></description>
+            <link>undefinedabout-ross/index.html</link>
+            <guid isPermaLink="false">b37fbb09-7773-47d3-9630-39c515f36a9f</guid>
+            <pubDate>Tue, 01 Mar 2016 19:35:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
