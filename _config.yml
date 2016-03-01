@@ -1,0 +1,28 @@
+name: Ross Kaplan-Winn
+favicon: null
+layout_spectrum: 0.16541223251260817
+typography_spectrum: 0.5501484365668148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.761301091639325
+  lightness: 0.2330392636358738
+  saturation: 0.41015287046320736
+  rhythmicContrast: 0.5713091599754989
+purpose: []
