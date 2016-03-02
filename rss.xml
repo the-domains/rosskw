@@ -4,7 +4,7 @@
         <description><![CDATA[Ross Kaplan-Winn]]></description>
         <link>http://rosskw.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 01:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 02:01:38 GMT</lastBuildDate>
         <atom:link href="http://rosskw.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Wed, 02 Mar 2016 01:58:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About Ross]]></title>
-            <description><![CDATA[<article><h1>About Ross</h1><p>Just testing the Grid..</p></article>]]></description>
+            <title><![CDATA[About This Site]]></title>
+            <description><![CDATA[<article><h1>About This Site</h1><p>Just testing the Grid..</p></article>]]></description>
             <link>http://rosskw.com/about-ross/index.html</link>
             <guid isPermaLink="false">b37fbb09-7773-47d3-9630-39c515f36a9f</guid>
-            <pubDate>Wed, 02 Mar 2016 01:57:47 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 02:01:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
